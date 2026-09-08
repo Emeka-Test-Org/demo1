@@ -7,6 +7,4 @@ name: notifications-api
 version: 2.1.0
 owner: messaging-team
 ---
-name: auth-service
-version: 3.0.1
-owner: security-team
+
