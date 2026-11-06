@@ -1,7 +1,6 @@
-services:
-  - name: payments-api
-    version: 1.0.0
-    status: active
-  - name: billing-api
-    version: 1.0.0
-    status: broken
+- name: payments-api
+  version: 1.0.0
+  status: active
+- name: billing-api
+  version: 1.0.0
+  status: broken
