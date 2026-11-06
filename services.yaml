@@ -3,4 +3,4 @@
   status: active
 - name: billing-api
   version: 1.0.0
-  status: broken
+  status: rejected
